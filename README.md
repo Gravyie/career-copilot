@@ -54,7 +54,7 @@ An all-in-one AI career assistant that helps students prepare for placements usi
 
 ### Frontend Setup
 ```bash
-git clone 
-cd frontend
+git clone https://github.com/Gravyie/career-copilot.git
+cd career-copilot
 npm install
 npm run dev
