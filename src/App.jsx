@@ -238,7 +238,7 @@ const App = () => {
           
           <div style={s.heroHeader} className="animate-in">
             <div style={s.title}>
-              <img src="/public/logo.png" alt="Logo" style={{ width: "48px", verticalAlign: "bottom", marginRight: "12px" }} />
+              <img src="/logo.png" alt="Logo" style={{ width: "48px", verticalAlign: "bottom", marginRight: "12px" }} />
               Career Copilot
             </div>
             <p style={s.subtitle}>Your AI-powered career accelerator.</p>
