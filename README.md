@@ -54,6 +54,7 @@ An all-in-one AI career assistant that helps students prepare for placements usi
 
 ### Frontend Setup
 ```bash
+git clone 
 cd frontend
 npm install
 npm run dev
